@@ -1,4 +1,3 @@
-
 <a href="https://www.monash.edu.my/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="monash_logo_dark.svg">
@@ -32,10 +31,14 @@
 </p>
 
 ---
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=tokyonight&margin-w=15#gh-dark-mode-only" alt="trophy" />
-    <img src="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&margin-w=15#gh-light-mode-only" alt="trophy" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=dark&margin-w=15">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&margin-w=15">
+      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&margin-w=15">
+    </picture>
   </a>
 </p>
 
