@@ -15,9 +15,9 @@
   <img src="https://count.getloli.com/get/@fxia0018.github.readme?theme=moebooru" alt="Profile Views" />
 </p>
 
-- 🔭 I'm currently working on **Personal AI Study System (CLI + RAG)** & **Sentinel**
-- 🌱 I'm currently learning **C#/Python AI development, prompt engineering, and AI-assisted learning systems.**
-- ⚡ Fun fact **I argue with my AI assistant… and lose 😅**
+ 🔭 I'm currently working on **Personal AI Study System (CLI + RAG)** & **Sentinel**
+ 🌱 I'm currently learning **C#/Python AI development, prompt engineering, and AI-assisted learning systems.**
+⚡ Fun fact **I argue with my AI assistant… and lose 😅**
 
 ---
 
