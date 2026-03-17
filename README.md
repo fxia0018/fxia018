@@ -2,7 +2,7 @@
   <img align="right" src="monash.png" height="70" alt="Monash University" />
 </a>
 
-<h3><strong>Hi 👋, I'm Natsuki</strong></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=0e75b6&width=435&lines=Hi+👋,+I'm+Natsuki" alt="Typing SVG" />
 
 ### Computer Science Student @ Monash University | Passionate Developer
 
