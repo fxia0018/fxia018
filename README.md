@@ -17,7 +17,7 @@
 
 - 🔭 I'm currently working on **Personal AI Study System (CLI + RAG)** & **Sentinel**
 - 🌱 I'm currently learning **C#/Python AI development, prompt engineering, and AI-assisted learning systems.**
-- ⚡ Fun fact **I argue with my AI assistant… and lose 😅**
+- ⚡ Fun fact **Data shows that 100% of people who drink water eventually die.**
 
 ---
 
