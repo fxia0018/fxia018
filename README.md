@@ -1,5 +1,5 @@
 <a href="https://www.monash.edu.my/" target="_blank">
-  <img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Monash_University_logo.svg/512px-Monash_University_logo.svg.png" style="background-color: white; padding: 5px; border-radius: 5px;" height="100" alt="Monash University" />
+  <img align="right" src="monash.png" width="200" alt="Monash University" />
 </a>
 
 # Hi 👋, I'm Natsuki
