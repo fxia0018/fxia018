@@ -1,54 +1,29 @@
-# Hello World, I'm Natsuki 👋
+# Hi 👋, I'm Natsuki
+
+### A passionate developer from around the world
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fxia0018&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fxia0018&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-> **Computer Science Student @ Monash University** > *Crafting intelligent systems and automating the future.*
+- 🔭 I'm currently working on **Personal AI Study System (CLI + RAG)**
 
----
+- 🌱 I'm currently learning **C#/Python AI development, prompt engineering, and AI-assisted learning systems.**
 
-### 🔭 Currently Working On
-* **Sentinel** - Python-based price monitoring & e-commerce automation.
-* **AI Study System** - Developing a CLI-based RAG system for personalized learning.
+- ⚡ Fun fact **I argue with my AI assistant… and lose 😅**
 
-### 🌱 Learning & Interests
-* **Tech**: AI Development (C# / Python), Prompt Engineering.
-* **Academic**: Deep diving into Data Structures & Algorithms (Current: ArrayList optimization).
-* **Personal**: Classical music & Japanese visual novel culture.
-
----
-
-### 🛠 Languages and Tools
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<a href="https://github.com/fxia0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fxia0018" height="30" width="40" /></a>
+<a href="https://instagram.com/jace_xiaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jace_xiaf" height="30" width="40" /></a>
+<a href="https://youtube.com/https://www.youtube.com/@jaceXia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jaceXia" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fxia0018&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxia0018&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fxia0018&show_icons=true&locale=en&layout=compact" alt="fxia0018" /></p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fxia0018&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fxia0018&show_icons=true&locale=en" alt="fxia0018" /></p>
 
----
-
-### 🤝 Connect with me
-<p align="left">
-<a href="https://github.com/fxia0018"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/jace_xiaf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@jaceXia"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-</p>
-
-<p align="right">
-  <i>"I argue with my AI assistant… and lose 😅"</i>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fxia0018&" alt="fxia0018" /></p>
