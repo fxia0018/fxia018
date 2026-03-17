@@ -30,33 +30,24 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
 </p>
 
-<br>
-<br>
-
-<h2 align="left"><strong>🤝 Connect with me:</strong></h2>
-<p align="left">
-<a href="https://github.com/fxia0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fxia0018" height="30" width="40" /></a>
-<a href="https://instagram.com/jace_xiaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jace_xiaf" height="30" width="40" /></a>
-<a href="https://youtube.com/https://www.youtube.com/@jaceXia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jaceXia" height="30" width="40" /></a>
-</p>
-
 ---
 
 <br>
 
 <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=tokyonight&no-frame=false&margin-w=15&border_radius=10&rank=S,A,B,C">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&no-frame=false&margin-w=15&border_radius=10&rank=S,A,B,C">
+      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&border_radius=10&rank=S,A,B,C" height="150">
+    </picture>
+  </a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fxia0018&show_icons=true&theme=dark&hide_border=false&border_radius=10">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fxia0018&show_icons=true&theme=default&hide_border=false&border_radius=10">
       <img alt="Stats Card" src="https://github-readme-stats.vercel.app/api?username=fxia0018&show_icons=true&theme=default&hide_border=false&border_radius=10" height="150">
-    </picture>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fxia0018&layout=compact&theme=dark&hide_border=false&border_radius=10">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fxia0018&layout=compact&theme=default&hide_border=false&border_radius=10">
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxia0018&layout=compact&theme=default&hide_border=false&border_radius=10" height="150">
     </picture>
   </a>
 </p>
@@ -69,11 +60,23 @@
       <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=fxia0018&theme=default&hide_border=false&border_radius=10" height="150">
     </picture>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=tokyonight&no-frame=false&margin-w=15&border_radius=10">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&no-frame=false&margin-w=15&border_radius=10">
-      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&border_radius=10" height="150">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fxia0018&layout=compact&theme=dark&hide_border=false&border_radius=10">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fxia0018&layout=compact&theme=default&hide_border=false&border_radius=10">
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxia0018&layout=compact&theme=default&hide_border=false&border_radius=10" height="150">
     </picture>
   </a>
+</p>
+
+---
+
+<br>
+
+<h2 align="left"><strong>🤝 Connect with me:</strong></h2>
+<p align="left">
+<a href="https://github.com/fxia0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fxia0018" height="30" width="40" /></a>
+<a href="https://instagram.com/jace_xiaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jace_xiaf" height="30" width="40" /></a>
+<a href="https://youtube.com/https://www.youtube.com/@jaceXia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jaceXia" height="30" width="40" /></a>
 </p>
