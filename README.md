@@ -1,3 +1,7 @@
+<a href="https://www.monash.edu.my/" target="_blank">
+  <img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Monash_University_logo.svg/512px-Monash_University_logo.svg.png" height="70" alt="Monash University" />
+</a>
+
 # Hi 👋, I'm Natsuki
 
 ### Computer Science Student @ Monash University | Passionate Developer
@@ -9,7 +13,6 @@
 - 🔭 I'm currently working on **Personal AI Study System (CLI + RAG)** & **Sentinel**
 - 🌱 I'm currently learning **C#/Python AI development, prompt engineering, and AI-assisted learning systems.**
 - ⚡ Fun fact **I argue with my AI assistant… and lose 😅**
-
 ---
 
 <h3 align="left">🛠️ Languages and Tools</h3>
