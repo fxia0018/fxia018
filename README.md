@@ -1,8 +1,9 @@
+
 <a href="https://www.monash.edu.my/" target="_blank">
   <img align="right" src="monash.png" height="70" alt="Monash University" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=0e75b6&width=435&lines=Hi+👋,+I'm+Natsuki" alt="Typing SVG" />
+# Hi 👋, I'm Natsuki
 
 ### Computer Science Student @ Monash University | Passionate Developer
 
@@ -25,6 +26,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
 </p>
+
+---
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
