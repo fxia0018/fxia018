@@ -11,7 +11,7 @@
 ### Computer Science Student @ Monash University | Passionate Developer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fxia0018&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fxia0018&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 🔭 I'm currently working on **Personal AI Study System (CLI + RAG)** & **Sentinel**
@@ -20,24 +20,24 @@
 
 ---
 
-<h2 align="left"><strong>🤝 Connect with me</strong></h2>
-<br>
-<p align="left">
-  <a href="https://github.com/fxia0018" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" /></a>
-  <a href="https://instagram.com/jace_xiaf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25" /></a>
-  <a href="https://www.youtube.com/@jaceXia" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="25" /></a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-<br>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cs,py,cpp,jupyter,linux,git" alt="SkillIcons" /> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
 </p>
+
+<br>
+<br>
+
+<h2 align="left"><strong>🤝 Connect with me:</strong></h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
+<a href="https://github.com/fxia0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fxia0018" height="30" width="40" /></a>
+<a href="https://instagram.com/jace_xiaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jace_xiaf" height="30" width="40" /></a>
+<a href="https://youtube.com/https://www.youtube.com/@jaceXia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jaceXia" height="30" width="40" /></a>
 </p>
 
 ---
