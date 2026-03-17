@@ -35,9 +35,9 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=tokyonight&no-frame=false&margin-w=15&border_radius=10">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&no-frame=false&margin-w=15&border_radius=10">
-      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=flat&border_radius=10" height="150">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&theme=tokyonight&margin-w=15">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fxia0018&margin-w=15">
+      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=fxia0018&margin-w=15" height="150">
     </picture>
   </a>
 </p>
