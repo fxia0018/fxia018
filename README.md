@@ -2,7 +2,7 @@
   <img align="right" src="monash.png" height="70" alt="Monash University" />
 </a>
 
-# Hi 👋, I'm Natsuki
+<h3><strong>Hi 👋, I'm Natsuki</strong></h3>
 
 ### Computer Science Student @ Monash University | Passionate Developer
 
@@ -25,8 +25,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
 </p>
-
----
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
